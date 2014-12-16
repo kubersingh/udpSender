@@ -1,0 +1,5 @@
+c:\users\kuber singh\documents\visual studio 2012\Projects\udpSender\udpSender\bin\Release\udpSender.exe.config
+c:\users\kuber singh\documents\visual studio 2012\Projects\udpSender\udpSender\bin\Release\udpSender.exe
+c:\users\kuber singh\documents\visual studio 2012\Projects\udpSender\udpSender\bin\Release\udpSender.pdb
+c:\users\kuber singh\documents\visual studio 2012\Projects\udpSender\udpSender\obj\Release\udpSender.exe
+c:\users\kuber singh\documents\visual studio 2012\Projects\udpSender\udpSender\obj\Release\udpSender.pdb

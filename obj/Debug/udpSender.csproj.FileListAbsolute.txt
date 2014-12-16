@@ -1,0 +1,6 @@
+c:\users\kuber singh\documents\visual studio 2012\Projects\udpSender\udpSender\bin\Debug\udpSender.exe.config
+c:\users\kuber singh\documents\visual studio 2012\Projects\udpSender\udpSender\bin\Debug\udpSender.exe
+c:\users\kuber singh\documents\visual studio 2012\Projects\udpSender\udpSender\bin\Debug\udpSender.pdb
+c:\users\kuber singh\documents\visual studio 2012\Projects\udpSender\udpSender\obj\Debug\udpSender.csprojResolveAssemblyReference.cache
+c:\users\kuber singh\documents\visual studio 2012\Projects\udpSender\udpSender\obj\Debug\udpSender.exe
+c:\users\kuber singh\documents\visual studio 2012\Projects\udpSender\udpSender\obj\Debug\udpSender.pdb
